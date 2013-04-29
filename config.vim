@@ -1,6 +1,6 @@
 " =============================================================================
 " Vim Configuration File.
-" Author - Aditya Shevade <aditya.shevade@gmail.com>
+" Author - Albert Vonpupp <vonpupp@gmail.com>
 " =============================================================================
 
 " Call the pathogen plugin.
