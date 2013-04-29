@@ -8,3 +8,10 @@ Session.vim
 # Local backup files
 *.bkp
 *.bak
+
+# Submodules
+bundle/csupport/*
+bundle/dwm-vim/*
+bundle/matchit/*
+bundle/snipmate/*
+bundle/taglist/*
