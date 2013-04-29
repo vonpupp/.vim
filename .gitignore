@@ -10,6 +10,7 @@ Session.vim
 *.bak
 
 # Submodules
+bundle/*.*
 bundle/csupport/*
 bundle/dwm-vim/*
 bundle/matchit/*
